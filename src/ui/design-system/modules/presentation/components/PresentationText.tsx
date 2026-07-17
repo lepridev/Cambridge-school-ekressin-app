@@ -107,7 +107,7 @@ const PresentationText = (props: Props) => {
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-secondary mt-1 text-sm md:text-base">✦</span>
-                <span>Former des leaders d'exception ayant un impact positif à l`&apos;`échelle mondiale</span>
+                <span>Former des leaders d`&apos;`exception ayant un impact positif à l`&apos;`échelle mondiale</span>
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-secondary mt-1 text-sm md:text-base">✦</span>
@@ -115,7 +115,7 @@ const PresentationText = (props: Props) => {
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-secondary mt-1 text-sm md:text-base">✦</span>
-                <span>Créer des emplois et des opportunités d'affaires</span>
+                <span>Créer des emplois et des opportunités d`&apos;`affaires</span>
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-secondary mt-1 text-sm md:text-base">✦</span>
@@ -233,7 +233,7 @@ const PresentationText = (props: Props) => {
               </p>
               <p className="flex items-start gap-2">
                 <span className="text-primary mt-1">✦</span>
-                <span>Offrir un environnement inclusif pour les tout-petits et les enfants d'âge scolaire</span>
+                <span>Offrir un environnement inclusif pour les tout-petits et les enfants d`&apos;`âge scolaire</span>
               </p>
             </div>
           </div>
