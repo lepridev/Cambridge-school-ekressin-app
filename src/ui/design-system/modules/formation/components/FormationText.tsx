@@ -83,7 +83,7 @@ const FormationText = (props: Props) => {
             component="h2"
             className="text-primary"
           >
-            S'inscrire à Cambridge International School
+            S`&apos;`inscrire à Cambridge International School
           </Typograpy>
           <div className="w-20 h-1 bg-primary mt-2 rounded-full" />
         </div>
@@ -100,10 +100,10 @@ const FormationText = (props: Props) => {
             </Typograpy>
             <Typograpy variant="body-lg" className="text-gray-700 leading-relaxed">
               Les inscriptions et réinscriptions débuteront à compter du <strong>05 Août</strong> 
-              jusqu'au <strong>30 septembre</strong> sous réserve du nombre de places disponibles 
+              jusqu`&apos;`au <strong>30 septembre</strong> sous réserve du nombre de places disponibles 
               pour toutes les classes. Bien que présentant les mêmes formalités 
               administratives, les conditions de réinscription des anciens 
-              élèves diffèrent quelque peu des cas d'inscription de nouveaux élèves.
+              élèves diffèrent quelque peu des cas d`&apos;`inscription de nouveaux élèves.
             </Typograpy>
           </div>
 
@@ -115,7 +115,7 @@ const FormationText = (props: Props) => {
               className="flex items-center gap-3 mb-6"
             >
               <RiArtboardFill className="text-primary text-2xl" />
-              Modalités d'accès
+              Modalités d`&apos;`accès
             </Typograpy>
 
             <div className="space-y-6 ml-4 md:ml-8">
@@ -127,10 +127,10 @@ const FormationText = (props: Props) => {
                   </div>
                   <div>
                     <Typograpy variant="body-lg" weight="medium">
-                      Test d'entrée <span className="text-sm font-normal text-gray-500">(Nouveau inscrit)</span>
+                      Test d`&apos;`entrée <span className="text-sm font-normal text-gray-500">(Nouveau inscrit)</span>
                     </Typograpy>
                     <Typograpy variant="body-base" className="mt-2 text-gray-700">
-                      L'inscription de nouveaux élèves du CP2 au CM2 est soumise à un test de recrutement.
+                      L`&apos;`inscription de nouveaux élèves du CP2 au CM2 est soumise à un test de recrutement.
                     </Typograpy>
                   </div>
                 </div>
@@ -144,7 +144,7 @@ const FormationText = (props: Props) => {
                   </div>
                   <div>
                     <Typograpy variant="body-lg" weight="medium">
-                      Condition d'admission <span className="text-sm font-normal text-gray-500">(Ancien élève)</span>
+                      Condition d`&apos;`admission <span className="text-sm font-normal text-gray-500">(Ancien élève)</span>
                     </Typograpy>
                     <Typograpy variant="body-base" className="mt-2 text-gray-700">
                       Sont autorisés à se réinscrire les élèves ayant obtenu une moyenne supérieure ou égale à 5 sur 10.
@@ -256,7 +256,7 @@ const FormationText = (props: Props) => {
                 <div>• 04 savons de toilette</div>
                 <div>• 04 bouteilles de Dettol/Carmel</div>
                 <div>• 01 paquet papier hygiénique</div>
-                <div>• 01 bouteille d'eau</div>
+                <div>• 01 bouteille d`&apos;`eau</div>
                 <div>• 01 assiette/cuillère/verre en plastique</div>
               </div>
             </div>

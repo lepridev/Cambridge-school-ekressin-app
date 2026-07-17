@@ -54,7 +54,7 @@ const PresentationText = (props: Props) => {
           </Typograpy>
           <div className="w-16 md:w-20 h-1 bg-primary mt-2 rounded-full" />
           <Typograpy variant="body-base" className="mt-4 text-gray-600">
-            Cambridge International School Ekressinville est une institution d'excellence 
+            Cambridge International School Ekressinville est une institution d`&apos;`excellence 
             dédiée à former la prochaine génération de leaders africains.
           </Typograpy>
         </div>
@@ -85,7 +85,7 @@ const PresentationText = (props: Props) => {
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-primary mt-1 text-sm md:text-base">✦</span>
-                <span>Inculquer l'intégrité et la probité dès le plus jeune âge</span>
+                <span>Inculquer l`&apos;`intégrité et la probité dès le plus jeune âge</span>
               </li>
             </ul>
           </div>
@@ -107,7 +107,7 @@ const PresentationText = (props: Props) => {
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-secondary mt-1 text-sm md:text-base">✦</span>
-                <span>Former des leaders d'exception ayant un impact positif à l'échelle mondiale</span>
+                <span>Former des leaders d'exception ayant un impact positif à l`&apos;`échelle mondiale</span>
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-secondary mt-1 text-sm md:text-base">✦</span>
@@ -221,7 +221,7 @@ const PresentationText = (props: Props) => {
             <div className="space-y-3 text-gray-700 text-sm md:text-base">
               <p className="flex items-start gap-2">
                 <span className="text-primary mt-1">✦</span>
-                <span>Favoriser l'amour de l'apprentissage et encourager la découverte</span>
+                <span>Favoriser l`&apos;`amour de l`&apos;`apprentissage et encourager la découverte</span>
               </p>
               <p className="flex items-start gap-2">
                 <span className="text-primary mt-1">✦</span>
@@ -229,7 +229,7 @@ const PresentationText = (props: Props) => {
               </p>
               <p className="flex items-start gap-2">
                 <span className="text-primary mt-1">✦</span>
-                <span>Créer un environnement d'apprentissage heureux, sécurisé et stimulant</span>
+                <span>Créer un environnement d`&apos;`apprentissage heureux, sécurisé et stimulant</span>
               </p>
               <p className="flex items-start gap-2">
                 <span className="text-primary mt-1">✦</span>
@@ -249,17 +249,17 @@ const PresentationText = (props: Props) => {
               </Typograpy>
             </div>
             <div className="space-y-3 text-white/90 text-sm md:text-base">
-              <p>• Notre objectif est de soutenir et de nourrir le désir naturel d'apprendre tout au long de la vie</p>
+              <p>• Notre objectif est de soutenir et de nourrir le désir naturel d`&apos;`apprendre tout au long de la vie</p>
               <p>• Une communauté où chaque enfant se sent aimé, respecté et encouragé</p>
               <p>• Une éducation de qualité dans un environnement sécurisé, respectueux et inclusif</p>
-              <p>• Un programme éducatif centré sur l'enfant qui développe l'autonomie, la confiance et la résilience</p>
+              <p>• Un programme éducatif centré sur l`&apos;`enfant qui développe l`&apos;`autonomie, la confiance et la résilience</p>
             </div>
           </div>
 
           {/* CTA */}
           <div className="text-center py-6 md:py-8">
             <Typograpy variant="body-lg" className="text-gray-600">
-              Rejoignez-nous dans notre mission d'excellence éducative
+              Rejoignez-nous dans notre mission d`&apos;`excellence éducative
             </Typograpy>
           </div>
         </div>
